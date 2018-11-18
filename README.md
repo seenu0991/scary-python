@@ -1,0 +1,2 @@
+# scary-python
+easy work

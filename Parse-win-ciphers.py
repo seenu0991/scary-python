@@ -6,7 +6,7 @@ from datetime import datetime
 import easygui
 import sys
 import os 
-#import sgproxy 
+ 
 
 # Please Select Input file "Host_ciphers.text file "
 
